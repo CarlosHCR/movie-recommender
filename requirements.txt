@@ -1,0 +1,19 @@
+# Django
+Django==5.0.6
+django-dotenv==1.4.2
+
+# Django REST framework
+djangorestframework==3.15.2
+
+# DB Postgres
+psycopg2-binary==2.9.9
+dj-database-url==2.2.0
+
+# Genai
+google-generativeai==0.7.2
+
+# Swagger
+drf-yasg==1.21.7
+
+# SetupTools
+setuptools==70.3.0
